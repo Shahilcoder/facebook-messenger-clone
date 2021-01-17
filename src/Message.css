@@ -1,0 +1,20 @@
+.message {
+    padding: 10px;
+    padding-top: 7px;
+    margin: 10px 2px 10px 2px;
+    text-align: left !important;
+    border-radius: 25px;
+    width: fit-content;
+    background-color: rgb(223, 223, 223) !important;
+}
+
+.message p {
+    margin: 0;
+}
+
+.message_user {
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+    background-color: rgb(13, 109, 253) !important;
+}
